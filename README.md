@@ -1,8 +1,8 @@
 # Sistemas Térmicos II
 
-{Motores Alpha}
-{Motores Beta}
-{Motores Gama}
+{Motores Alpha} </br>
+{Motores Beta} </br>
+{Motores Gama} </br>
 
 https://www.youtube.com/watch?v=oVb8cOIjACs </br>
 https://www.youtube.com/watch?v=egNrHP6pMUo </br>
