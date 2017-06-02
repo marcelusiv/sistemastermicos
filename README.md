@@ -10,7 +10,9 @@ https://www.youtube.com/watch?v=DVAMJ-CcYJA </br>
 https://www.youtube.com/watch?v=VUk_huw7iSI
 
 
+Canal do Youtube da Monitoria
 
+https://www.youtube.com/channel/UCIDkW80YXdVqZCPnBQnHNsA/videos?sort=dd&shelf_id=0&view=0
 
 
 # Sistemas Térmicos I
